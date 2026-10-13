@@ -1,0 +1,22 @@
+* {
+	font-size: 30px;
+	background-color:#839364;
+	font-family:Verdana,sans-serief;
+	margin: 15px;
+	padding-top:10px;
+
+}
+h1{
+	text-align:center;
+	
+}
+p.inleiding{
+	font-style : italic;
+	font-weight: bold;
+	
+}
+li#schuin{
+	
+	font-style:italic;
+	
+}
